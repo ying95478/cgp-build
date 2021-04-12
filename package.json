@@ -14,14 +14,9 @@
   "files": [
     "lib"
   ],
-  "scripts": {
-    "lint": "standard --fix",
-    "test": "jest --coverage",
-    "prepare": "npm run lint && npm run test"
-  },
   "renovate": {
     "extends": [
-      "zce"
+      "cgp"
     ]
   },
   "standard": {
