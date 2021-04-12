@@ -26,7 +26,6 @@ $ yarn add cgp-build
 
 ```javascript
 const cgpBuild = require('cgp-build')
-const result = webBuild('w')
 // result => 'w@zce.me'
 ```
 

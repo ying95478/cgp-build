@@ -1,6 +1,6 @@
 {
   "name": "cgp-build",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a gulp auto build tools",
   "keywords": [
     "cgp-build",
